@@ -1,7 +1,7 @@
 # django_crud_scaffolding
 scaffold (views actions, templates, model_forms, routes) code for your models by few django shell commands
 <br>scaffold cruds for your models as fast start for your project
-<br>@authers: Askao Ahmed Saad && Mahmoud Samy
+<br>@authors: Askao Ahmed Saad && Mahmoud Samy
 <br>@contact:ahmedsaadkhames@gmail.com - mahmoudsamy18@gmail.com
 <hr>
 **requirements**<br>
