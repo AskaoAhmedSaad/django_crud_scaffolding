@@ -6,7 +6,8 @@ python script for scaffolding (templates, model_forms, routes) code for your mod
 <hr>
 **requirements**<br>
 - django project with apps containing models.
-- add the desired apps to settings.INSTALLED_APPS
+- add the desired apps to settings.INSTALLED_APPS.
+
 <hr>
 **Running the application from shell**<br><br>
 - run django shell.
