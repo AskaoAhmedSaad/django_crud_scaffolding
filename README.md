@@ -3,11 +3,11 @@ python script for scaffolding (templates, model_forms, routes) code for your mod
 <br>scaffold cruds for your models as fast start for your project
 <br>@authers: Askao Ahmed Saad && Mahmoud Samy
 <br>@contact:ahmedsaadkhames@gmail.com - mahmoudsamy18@gmail.com
-<br>
+<hr>
 **requirements**<br>
 - django project with apps containing models.
 - add the desired apps to settings.INSTALLED_APPS
-<br>
+<hr>
 **Running the application from shell**<br><br>
 - run django shell.
 ```
