@@ -1,19 +1,23 @@
 # django_crud_scaffolding
 python script for scaffolding (templates, model_forms, routes) code for your models by few django shell commands
-scaffold cruds for your models as fast start for your project
-@authers: Askao Ahmed Saad && Mahmoud Samy
-@contact:ahmedsaadkhames@gmail.com - mahmoudsamy18@gmail.com
-
+<br>scaffold cruds for your models as fast start for your project
+<br>@authers: Askao Ahmed Saad && Mahmoud Samy
+<br>@contact:ahmedsaadkhames@gmail.com - mahmoudsamy18@gmail.com
+<br>
 **requirements**<br>
 - django project with apps containing models.
 - add the desired apps to settings.INSTALLED_APPS
-
+<br>
 **Running the application from shell**<br><br>
 - run django shell.
-`python manage.py shell`
+```
+python manage.py shell
+```
 <br>
 - run django_crud_scaffolding script.
-`import crud_scaffolding`
+```
+import crud_scaffolding
+```
 <br>
 - choose app number from your project installed apps list.
 ```
